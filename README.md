@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bilali Ud Din</h1>
 <h3 align="center">A passionate Web Dev App Dev & Designer from Pakistan</h3>
 
-<img align="right" alt="coding" height="240"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRuMjJoYmVmeTM1ZG80cHhtOTRtZHM1bHBhdTl5MmR5NnhkaHB3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="coding" height="200"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRuMjJoYmVmeTM1ZG80cHhtOTRtZHM1bHBhdTl5MmR5NnhkaHB3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 ---
 
